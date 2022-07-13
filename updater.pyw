@@ -11,7 +11,7 @@ except ImportError:
 """
 CONSTANTS:
 """
-URL = "https://raw.githubusercontent.com/mariahacker/logger21/main/updater.pyw"
+URL = "https://raw.githubusercontent.com/mariahacker/logger21/main/main.py"
 
 THIS_DIR = "/".join(os.getcwd().split("\\")[:-1])
 
